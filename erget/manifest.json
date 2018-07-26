@@ -1,0 +1,30 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/socket/socket.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/dragonBones/dragonBones.js"
+	],
+	"game": [
+		"bin-debug/base/ViewManager.js",
+		"bin-debug/view/BackgroundManager.js",
+		"bin-debug/event/ViewEventDispatcher.js",
+		"bin-debug/protocol/GameSocket.js",
+		"bin-debug/protocol/Parser.js",
+		"bin-debug/res/assets.js",
+		"bin-debug/utils/Utils.js",
+		"bin-debug/Main.js",
+		"bin-debug/view/BulletManager.js",
+		"bin-debug/view/InfoManager.js",
+		"bin-debug/view/MonsterGroupManager.js",
+		"bin-debug/view/ShipManager.js",
+		"bin-debug/view/monsterGroup/Demon.js",
+		"bin-debug/view/monsterGroup/Dragon.js",
+		"bin-debug/view/monsterGroup/GreenMonster.js"
+	]
+}
